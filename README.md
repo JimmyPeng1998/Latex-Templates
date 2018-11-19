@@ -5,4 +5,4 @@ I've found many beautiful latex templates to write essay in many websites, but t
 
 You need to use 'UTF8' code and compile the tex file by XeLaTeX, by TexStudio.
 
-If you have any question about my templates, 
+If you have any question about my templates, never hesitate to contact me.
